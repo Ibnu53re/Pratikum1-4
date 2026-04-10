@@ -79,3 +79,7 @@ lab7_php_ci/
 - Auth Filter
 - Proteksi halaman admin
 - Fitur Logout
+
+
+### Screenshot
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/150c1b3c-b174-4013-9478-9a70c207fe55" />
