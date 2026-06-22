@@ -1,4 +1,4 @@
-# Praktikum 1-14 Pemrograman Web 2
+# Praktikum 1-4 Pemrograman Web 2
 
 **Nama**  : Ibnu Nazhif Alamsyah  
 **NIM**   : 312410094  
